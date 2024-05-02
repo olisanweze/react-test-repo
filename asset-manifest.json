@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-test-repo/static/css/main.dbe59683.css",
+    "main.js": "/react-test-repo/static/js/main.fe5167db.js",
+    "index.html": "/react-test-repo/index.html",
+    "main.dbe59683.css.map": "/react-test-repo/static/css/main.dbe59683.css.map",
+    "main.fe5167db.js.map": "/react-test-repo/static/js/main.fe5167db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbe59683.css",
+    "static/js/main.fe5167db.js"
+  ]
+}
